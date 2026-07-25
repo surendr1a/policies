@@ -1,0 +1,33 @@
+Privacy PolicyEffective Date: July 25, 2026 [2]
+
+This Privacy Policy explains how our LinkedIn Automation App ("the App") collects, uses, 
+and handles your data when you interact with our automated LinkedIn tools.
+
+1. Data We CollectWe only access data that you explicitly authorize through the 
+LinkedIn OAuth permissions screen, which may include:Your basic LinkedIn profile 
+information (Name, Member URN).Content, posts, and comments interacting with our
+specific published posts.
+
+2. How We Use Your DataWe use the collected information strictly to fuel automated
+interactions requested by the user, specifically:To programmatically publish 
+automated PDF carousels and text updates to your authorized feed.To scan comments 
+on our specific posts and automatically send the requested resource link via 
+LinkedIn Direct Message (DM).
+
+3. Data Storage and RetentionZero Data Retention: We do not host, store,
+or sell your personal LinkedIn data or message histories on any external 
+database.Data is processed instantly in temporary runtime memory 
+(Cloudflare Workers / Serverless Scripts) and dropped immediately 
+after the API action is completed.
+
+4. Third-Party SharingWe do not sell, rent, or trade your personal
+data with third parties. All data transmissions occur securely and
+directly between our backend server script and official LinkedIn API endpoints.
+
+5. Your Rights and RevocationYou can revoke the App's access to your
+LinkedIn account at any absolute time by navigating to your personal
+LinkedIn settings under "Permitted Services" and removing our App's permissions.
+
+6. Contact UsFor any privacy-related queries regarding this automation pipeline,
+please open an issue on our official GitHub repository hosting this file.
+
